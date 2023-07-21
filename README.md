@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/gabriel-bergamo.png)
 
 <!--
 **gabergamo/gabergamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
